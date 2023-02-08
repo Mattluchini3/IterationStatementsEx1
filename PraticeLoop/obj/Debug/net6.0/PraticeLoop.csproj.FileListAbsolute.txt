@@ -1,0 +1,15 @@
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/bin/Debug/net6.0/PraticeLoop
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/bin/Debug/net6.0/PraticeLoop.deps.json
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/bin/Debug/net6.0/PraticeLoop.runtimeconfig.json
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/bin/Debug/net6.0/PraticeLoop.dll
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/bin/Debug/net6.0/PraticeLoop.pdb
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/PraticeLoop.csproj.AssemblyReference.cache
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/PraticeLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/PraticeLoop.AssemblyInfoInputs.cache
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/PraticeLoop.AssemblyInfo.cs
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/PraticeLoop.csproj.CoreCompileInputs.cache
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/PraticeLoop.dll
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/refint/PraticeLoop.dll
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/PraticeLoop.pdb
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/PraticeLoop.genruntimeconfig.cache
+/Users/luch/Desktop/Repos/PraticeLoop/PraticeLoop/obj/Debug/net6.0/ref/PraticeLoop.dll
